@@ -1,28 +1,31 @@
-# Unity2019114f1-2D-Template
+# inclass-SimpleUserInterface-cs-jstreitberger
 
 ### Project description: 
-Introduction/Project summary 
+Create a GUI with a counter and a text rewriter
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
++ Windows 10
++ Visual Studio 2017
++ Unity 2019.1.14f1.1
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 1920x780
 
 ### Visuals: 
-Screenshots (concept and experience), Video
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+none
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
++ Template: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template
 
 ### Project state: 
-incl. progress in percent
+in progress
 
-### Limitations: 
+### Limitations:
+none
 
 ### Lessons Learned: 
++ How to build a userInterface
 
-Copyright by you :)
+Copyright by jstreitberger
